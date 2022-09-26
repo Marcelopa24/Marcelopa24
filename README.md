@@ -3,9 +3,9 @@
 ---
 <!--technologies-->
 ### Algunas de las tecnologías que manejo :
+  [![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/es/docs/Web/JavaScript)
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]   (https://developer.mozilla.org/es/docs/Web/JavaScript)
   [![React](https://img.shields.io/badge/React-48CEF7?style=for-the-badge&logo=react&logoColor=white)](https://es.reactjs.org/)
   [![Node](https://img.shields.io/badge/Node.js-4CAF50?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/es/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-4CAF50?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/es)

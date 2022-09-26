@@ -16,5 +16,5 @@
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-  [![Jinja](https://img.shields.io/badge/Jinja-E34F26?style=for-the-badge&logo=jinja&logoColor=white)](https://html.com/)
+  [![Jinja](https://img.shields.io/badge/Jinja-#B41717?style=for-the-badge&logo=jinja&logoColor=white)](https://html.com/)
 <!--technologies-->

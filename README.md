@@ -17,4 +17,5 @@
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
   [![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)](https://jinja.palletsprojects.com/en/3.1.x/)
+  [![Inventor](https://img.shields.io/badge/autodesk-B41717?style=for-the-badge&logo=autodesk&logoColor=white)](https://jinja.palletsprojects.com/en/3.1.x/)
 <!--technologies-->

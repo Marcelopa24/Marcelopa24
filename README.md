@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h2 align="center">Me llamo Marcelo Posada  y soy un Desarrollador MERN, apasionado por todo tipo de tecnologías y en constante aprendizaje.</h2>
+
 ---
 <!--technologies-->
 ### Algunas de las tecnologías que manejo :
